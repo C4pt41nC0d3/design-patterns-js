@@ -1,5 +1,7 @@
 #Design Patterns in Javascript Lang
 
+![main banner](https://raw.githubusercontent.com/captaincode0/design-patterns-js/master/banner.jpg)
+
 *The design patterns are a way to write the code, standarized by programmers to repeat the same patterns or code, but with good practices, is a complex theme, and there are a lot of new patterns, it depends of the paradigm programmers use to write awesome code.*
 
 Such as design patterns exists, there are anti patterns, accord to one theory the good patterns were made using bad practices.
