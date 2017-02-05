@@ -18,7 +18,7 @@ In javascript there is three types of design patterns accord to popular books in
 
 ##Content of this repository
 
-1. Singletoon pattern.
+1. Singleton pattern.
 2. Module pattern.
 3. Observer pattern.
 4. Mediator pattern.
